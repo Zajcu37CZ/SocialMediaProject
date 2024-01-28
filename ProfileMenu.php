@@ -32,7 +32,6 @@
             echo "<a href='ChangeProfile.php?Id=$res_id'>Change Profile</a>";
             ?>
             
-            <a href="php/logout.php"> <button class="btn">Log Out</button> </a>
         </div>
     </div>
     <main>
